@@ -1,0 +1,12 @@
+C:\Users\cenge\source\repos\VeritabaniKayitGiris\VeritabaniKayitGiris\obj\Debug\VeritabaniKayitGiris.csprojAssemblyReference.cache
+C:\Users\cenge\source\repos\VeritabaniKayitGiris\VeritabaniKayitGiris\obj\Debug\VeritabaniKayitGiris.Form1.resources
+C:\Users\cenge\source\repos\VeritabaniKayitGiris\VeritabaniKayitGiris\obj\Debug\VeritabaniKayitGiris.Properties.Resources.resources
+C:\Users\cenge\source\repos\VeritabaniKayitGiris\VeritabaniKayitGiris\obj\Debug\VeritabaniKayitGiris.csproj.GenerateResource.cache
+C:\Users\cenge\source\repos\VeritabaniKayitGiris\VeritabaniKayitGiris\obj\Debug\VeritabaniKayitGiris.csproj.CoreCompileInputs.cache
+C:\Users\cenge\source\repos\VeritabaniKayitGiris\VeritabaniKayitGiris\bin\Debug\VeritabaniKayitGiris.exe.config
+C:\Users\cenge\source\repos\VeritabaniKayitGiris\VeritabaniKayitGiris\bin\Debug\VeritabaniKayitGiris.exe
+C:\Users\cenge\source\repos\VeritabaniKayitGiris\VeritabaniKayitGiris\bin\Debug\VeritabaniKayitGiris.pdb
+C:\Users\cenge\source\repos\VeritabaniKayitGiris\VeritabaniKayitGiris\obj\Debug\VeritabaniKayitGiris.exe
+C:\Users\cenge\source\repos\VeritabaniKayitGiris\VeritabaniKayitGiris\obj\Debug\VeritabaniKayitGiris.pdb
+C:\Users\cenge\source\repos\VeritabaniKayitGiris\VeritabaniKayitGiris\obj\Debug\VeritabaniKayitGiris.GirisYapildi.resources
+C:\Users\cenge\source\repos\VeritabaniKayitGiris\VeritabaniKayitGiris\obj\Debug\VeritabaniKayitGiris.sifremiUnuttum.resources
