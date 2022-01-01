@@ -17,7 +17,7 @@ namespace VeritabaniKayitGiris
         {
             InitializeComponent();
         }
-        static string constring = "Data Source=LAPTOP-IQGMC203\\SQLEXPRESS;Initial Catalog=Kisiler;Integrated Security=True";
+        static string constring = ""; // çift tırnak içine kendi database yolunuzu eklemeniz gerekiyor
         SqlConnection connect = new SqlConnection(constring);
 
         private void btnKaydet_Click(object sender, EventArgs e)

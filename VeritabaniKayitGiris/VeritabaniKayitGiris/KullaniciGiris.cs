@@ -10,7 +10,7 @@ namespace VeritabaniKayitGiris
 {
     class KullaniciGiris
     {
-        SqlConnection baglanti = new SqlConnection("Data Source=LAPTOP-IQGMC203\\SQLEXPRESS;Initial Catalog=Kisiler;Integrated Security=True");
+        SqlConnection baglanti = new SqlConnection(""); // çift tırnak içine kendi database yolunuzu eklemeniz gerekiyor
         SqlCommand komut;
         SqlDataReader read;
         GirisYapildi giris = new GirisYapildi();

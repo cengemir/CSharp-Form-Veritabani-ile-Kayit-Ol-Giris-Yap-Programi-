@@ -58,11 +58,6 @@
     <Compile Include="GirisYapildi.Designer.cs">
       <DependentUpon>GirisYapildi.cs</DependentUpon>
     </Compile>
-    <Compile Include="KisilerDataSet.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>KisilerDataSet.xsd</DependentUpon>
-    </Compile>
     <Compile Include="KullaniciGiris.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -90,17 +85,6 @@
     <EmbeddedResource Include="sifremiUnuttum.resx">
       <DependentUpon>sifremiUnuttum.cs</DependentUpon>
     </EmbeddedResource>
-    <None Include="KisilerDataSet.xsc">
-      <DependentUpon>KisilerDataSet.xsd</DependentUpon>
-    </None>
-    <None Include="KisilerDataSet.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>KisilerDataSet.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="KisilerDataSet.xss">
-      <DependentUpon>KisilerDataSet.xsd</DependentUpon>
-    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
